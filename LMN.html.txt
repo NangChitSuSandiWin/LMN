@@ -2,6 +2,26 @@
 <html>
 <head>
 <style>
+a.header:link,a.header:visited {
+
+    background-color: #66b3ff;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    font-size:20px;
+}
+
+
+a.header:hover {
+    color: hotpink;
+}
+
+
+a.header:active {
+    color: blue;
+}
 /*for top link*/
 /* unvisited link */
 a.head:link {
@@ -52,7 +72,10 @@ a:active {
 </style>
 </head>
 <body>
-
+<img src="1.jpg">
+<b><a class=header href="https://www.bing.com/images/search?q=web+icon&FORM=HDRSC2" target="_blank">Web Icon</a></b>
+<b><a class=header href="https://www.google.com.mm/?gfe_rd=cr&dcr=0&ei=KpTdWfezOO6R8Qeg3LSACA&gws_rd=ssl" target="_blank">Google</a></b>
+<b><a class=header href="https://www.youtube.com/" target="_blank">Link</a></b>
  <footer>
  <center>
   <a class=head href="Link">Link</a>
