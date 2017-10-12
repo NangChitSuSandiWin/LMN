@@ -1,0 +1,14 @@
+.div1, .div2
+{
+	float: left;
+}
+.div11, .div12
+{
+	float: left;
+}
+
+.clear
+{
+	clear: both;
+}
+

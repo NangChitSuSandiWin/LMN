@@ -1,0 +1,34 @@
+.divv
+{
+	width: 80%;
+	margin:0 auto;
+	background-color: red;
+	
+}
+.div1, .div2
+{
+	float: left;
+
+
+}
+.div11, .div12
+{
+	float: left;
+}
+
+.div21 
+{
+	display: inline-block;
+	width: 80%;
+	margin:0 auto;
+}
+.div22
+{
+	display: inline-block;
+}
+
+.clear
+{
+	clear: both;
+}
+
